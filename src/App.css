@@ -4,14 +4,39 @@
 }
 
 .row1 {
-  height: 33.33%;
-  background-color :darkblue;
+  height: 15%;
+  background-color : grey;
+  color: white;
+  border-bottom-color: white;
+  border-bottom-style: solid;
 }
 .row2 {
-  height: 33.33%;
-  background-color : red;
+  height: 70%;
+  background-color : grey;
+  border-bottom-color: white;
+  border-bottom-style: solid;
 }
 .row3 {
-  height: 33.33%;
-  background-color : orange;
+  height: 15%;
+  background-color : grey;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+}
+
+.songname {
+  width: 60%;
+  border-color: white;
+  border-style: solid;
+  height: 100%;
+  margin: auto;
+}
+
+.choice {
+  width : 100%;
+  border-color: black;
+  border-style: solid;
+  height: 10%;
+  margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
